@@ -24,7 +24,7 @@ I take pride in uncovering trends, optimizing processes, and presenting data thr
 ---
 
 ### 🧰 Data Toolkit  
-Proficient in **Python, R, SQL**, and frameworks like **Pandas, Scikit-learn, Tableau, and Power BI**, with hands-on experience in **AWS, Azure, and modern analytics workflows**.  
+Proficient in **Python, R, SQL**, and frameworks like **Pandas, Scikit-learn, Tableau, and Power BI**, with hands-on experience in **AWS, Azure**, and modern analytics workflows.  
 
 ---
 
@@ -46,3 +46,4 @@ When I’m not exploring datasets, I love exploring new places and sharing my ex
 ---
 
 ⭐ *“Data has a voice — I help it speak with clarity and purpose.”*
+
