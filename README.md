@@ -1,49 +1,67 @@
-# 👋 Hi, I'm Nagavalli Mareedu  
+# 👋 Hi, I'm Nagavalli Mareedu
 
-🎓 **Master’s Student in Data Science** at *Kent State University*  
-💡 Passionate about transforming data into intelligent insights that drive innovation, efficiency, and meaningful impact.  
+### AI/ML Engineer | Generative AI & LLM Engineer
 
----
+I am an AI/ML Engineer with 5+ years of experience building production-grade machine learning systems, Generative AI applications, RAG pipelines, AI agents, and scalable cloud-based AI services.
 
-### 🧭 Professional Snapshot  
-With a strong foundation in **data analytics, visualization, and applied machine learning**, I focus on converting complex datasets into actionable insights that enhance real-world decision-making.  
-My experience across **academia, healthcare systems, and data-driven projects** has strengthened my ability to design, validate, and deliver analytical solutions that make measurable differences.  
-
-I take pride in uncovering trends, optimizing processes, and presenting data through engaging, insightful dashboards and reports.  
+I hold a Master of Science in Data Science from Kent State University and specialize in transforming AI prototypes into secure, reliable, and production-ready applications.
 
 ---
 
-### ⚙️ Expertise Highlights  
-- Data Wrangling, Cleaning & Preprocessing  
-- Statistical Modeling & Predictive Analytics  
-- Data Visualization & Dashboard Development  
-- Business Intelligence & Performance Insights  
-- Cloud & Scalable Data Solutions (AWS, Azure)  
-- Real-World Healthcare and Operational Data Projects  
+## 🚀 Areas of Expertise
+
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI and Multi-Agent Workflows
+- Machine Learning and Deep Learning
+- Conversational AI and Intelligent Assistants
+- LLM Evaluation, Guardrails, and Observability
+- MLOps, Model Deployment, and CI/CD
+- Cloud-Native AI Applications
 
 ---
 
-### 🧰 Data Toolkit  
-Proficient in **Python, R, SQL**, and frameworks like **Pandas, Scikit-learn, Tableau, and Power BI**, with hands-on experience in **AWS, Azure**, and modern analytics workflows.  
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, JavaScript, TypeScript  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face  
+**GenAI:** GPT-4, Claude, Gemini, LLaMA 3, LangChain, LangGraph, LlamaIndex  
+**RAG & Search:** FAISS, Pinecone, ChromaDB, Weaviate, Embeddings, Hybrid Search  
+**Backend:** FastAPI, Flask, REST APIs, GraphQL, WebSockets  
+**MLOps:** MLflow, DVC, Docker, Kubernetes, GitHub Actions, LangSmith  
+**Cloud:** AWS, Azure, GCP, Vertex AI, Azure OpenAI, Amazon Bedrock  
+**Monitoring:** OpenTelemetry, Prometheus, Grafana, CloudWatch  
 
 ---
 
-### 🌟 My Philosophy  
-I believe that data becomes powerful when it tells a story.  
-Every analysis I perform centers around clarity, context, and purpose — aiming not just to interpret numbers, but to reveal insights that inspire informed actions and better outcomes.  
+## 💡 Featured Projects
+
+### 🤖 Enterprise AI Agent
+Built an autonomous AI agent with task planning and multi-tool orchestration for web search, Python execution, REST API interaction, file processing, web scraping, and database operations.
+
+### 📚 RAG Knowledge Assistant
+Developed a citation-aware RAG assistant that retrieves information from research papers and knowledge sources using document chunking, embeddings, vector search, and grounded response generation.
+
+### 🛡️ Agentic AI Compliance Workflow
+Designed a multi-agent regulatory-document workflow using LangGraph, Vertex AI, and OCR-based extraction to automate rule validation and produce auditable compliance decisions.
+
+### 🏥 Clinical Document Intelligence
+Built a healthcare-focused RAG platform for querying clinical guidelines and policy documents with citations, structured outputs, and privacy-aware processing.
 
 ---
 
-### 💫 Beyond Data  
-When I’m not exploring datasets, I love exploring new places and sharing my experiences on my YouTube channel **[America Prayanam](https://www.youtube.com/@AmericaPrayanam)** — where I blend creativity, storytelling, and cultural perspectives.  
+## 🎓 Education
+
+**Master of Science in Data Science**  
+Kent State University — December 2025
 
 ---
 
-### 💬 Let’s Connect  
-🌐 [LinkedIn](https://www.linkedin.com/in/nagavallimareedu)  
-📧 [nmareedu@kent.edu](mailto:nmareedu@kent.edu)  
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/nagavallimareedu](https://www.linkedin.com/in/nagavallimareedu/)
+- Email: [jhmnmareedu2000@gmail.com](mailto:jhmnmareedu2000@gmail.com)
 
 ---
 
-⭐ *“Data has a voice — I help it speak with clarity and purpose.”*
-
+⭐ I am open to AI Engineer, Machine Learning Engineer, Generative AI Engineer, LLM Engineer, and Applied AI opportunities.
